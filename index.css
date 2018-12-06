@@ -1,3 +1,6 @@
+body{
+    border: 10px solid green;
+}
 img {
     max-width: 100%;
     margin: 0%;
